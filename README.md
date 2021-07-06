@@ -41,3 +41,8 @@
 <p align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=Monetis&show_icons=true&theme=cobalt" alt="">
 </p>
+
+<span>
+    <p style="color: cornflowerblue;">Credits: </p> 
+    <p style="color: darkgoldenrod;"><a href="github.com/MegaITA">MegaITA</a></p>
+</span>
