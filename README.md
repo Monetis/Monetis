@@ -43,6 +43,6 @@
 </p>
 
 <span>
-    <p style="color: cornflowerblue;">Credits: </p> 
-    <p style="color: darkgoldenrod;"><a href="github.com/MegaITA">MegaITA</a></p>
+    <p align="right" style="color: cornflowerblue;">Credits: </p> 
+    <p align="right" style="color: darkgoldenrod;"><a href="https://github.com/MegaITA">MegaITA</a></p>
 </span>
