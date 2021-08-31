@@ -1,6 +1,6 @@
 <h1 align="center"> Hi there 👋, I'm Simone Cafiso </h1>
 
-<p align="center">🙋🏻‍♂️ I'm a FullStack Developer. I'm specialized in java based languages!
+<p align="center">🙋🏻‍♂️ I'm a FullStack Developer. I'm specialized in oop based languages!
 </p>
 
 <p align="center">
